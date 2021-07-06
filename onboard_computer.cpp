@@ -13,7 +13,7 @@ using namespace std;
 /*
 SI300 B - Programa��o Orientada � Objetos - Exerc�cio Programa 5
 Hugo Gomes de La Fuente
-RA: 172386
+this text was made in VSCode and published to github with sucess !
 */
 
 class Carro{
